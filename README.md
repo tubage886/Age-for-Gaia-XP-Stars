@@ -30,9 +30,6 @@ If you use this catalog in your research, please cite the paper above.
 Direct download:
 [NGBoost_Gaia_XP_Ages_XKHou.fits](https://github.com/tubage886/Age-for-Gaia-XP-Stars/raw/main/NGBoost_Gaia_XP_Ages_XKHou.fits)
 
-- SHA-256: `6cae5092801c5eade98fe2efab11d620476a146301fe56a02100fe9ef1c91bee`
-- The file is stored with Git LFS; click it in the repository root to download.
-
 ## 📬 Contact
 
 Xiaokun Hou — xkhou@bao.ac.cn
