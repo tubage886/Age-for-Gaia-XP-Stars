@@ -1,8 +1,7 @@
 # Gaia XP Stellar Age Catalog
 
 This repository presents the catalog of stellar ages derived by a **NGBoost-based
-model** for **15,175,107 stars** from the Gaia DR3 low-resolution XP
-spectrophotometry.
+model** for **15,175,107 stars** from the Gaia DR3 XP value-added catalog.
 
 ## 📄 Associated Paper
 
