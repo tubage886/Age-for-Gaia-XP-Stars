@@ -24,7 +24,7 @@ If you use this catalog in your research, please cite the paper above.
 
 | File | Size | Description |
 |------|------|-------------|
-| `NGBoost_Gaia_XP_Ages_XKHou.fits` | ~320 MB | Stellar age catalog (FITS format) |
+| `NGBoost_Gaia_XP_Ages_XKHou.fits` | ~1.1 GB | Stellar age catalog (FITS format) |
 
 Direct download:
 [NGBoost_Gaia_XP_Ages_XKHou.fits (1.15 GB, complete catalog)](https://github.com/tubage886/Age-for-Gaia-XP-Stars/releases/download/v1.1/NGBoost_Gaia_XP_Ages_XKHou.fits)
